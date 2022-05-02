@@ -1,0 +1,7 @@
+name: PvPBlocks
+version: '${project.version}'
+main: me.xsenny.pvpblocks.PvPBlocks
+api-version: 1.17
+commands:
+  block:
+    description: Sterge/Creeaza un nou PvPBlock
