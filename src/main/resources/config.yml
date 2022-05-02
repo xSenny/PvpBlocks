@@ -1,0 +1,5 @@
+Countdown: 5 #secunde
+
+#Block-ul cu care sa fie replasat: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+
+Block: DIAMOND_BLOCK
